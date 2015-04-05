@@ -1,0 +1,10 @@
+---
+title: "Montar una nube"
+author: "Mario Román"
+date: ""
+subtitle: "Owncloud y OpenStack"
+---
+
+# Introducción
+
+Una nube es una nube es una nube.
