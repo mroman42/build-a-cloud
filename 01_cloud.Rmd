@@ -1,8 +1,11 @@
 ---
 title: "Montar una nube"
 author: "Mario Román"
-date: ""
-subtitle: "Owncloud y OpenStack"
+date: ''
+output:
+  pdf_document:
+    number_sections: yes
+    toc: yes
 ---
 
 # Introducción
