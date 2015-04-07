@@ -5,9 +5,14 @@ date: ''
 output:
   pdf_document:
     number_sections: yes
-    toc: yes
 ---
 
-# Introducción
+# Resumen
 
 Una nube es una nube es una nube.
+
+
+
+# Memoria
+
+# Bibliografía
