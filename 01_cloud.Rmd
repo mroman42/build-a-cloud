@@ -19,6 +19,21 @@ http://www.idganswers.com/question/5714/how-can-i-build-a-private-cloud
 
 ## Owncloud
 
+Owncloud proporciona software de servidor y de cliente para montar una
+nube. Permite acceder a los datos mediante una interfaz web o mediante
+el protocolo **WebDAV**.
+
+La instalación en sistemas Debian puede realizarse mediante:
+```bash
+sudo sh -c "echo 'deb http://download.opensuse.org/repositories/isv:/ownCloud:/community/xUbuntu_14.10/ /' >> /etc/apt/sources.list.d/owncloud.list"
+sudo apt-get update
+sudo apt-get install owncloud
+```
+
+
+### Owncloud como usuario
+
+
 http://software.opensuse.org/download/package?project=isv:ownCloud:community&package=owncloud
 
 https://owncloud.org/history/
