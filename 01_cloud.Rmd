@@ -15,4 +15,16 @@ Una nube es una nube es una nube.
 
 # Memoria
 
+http://software.opensuse.org/download/package?project=isv:ownCloud:community&package=owncloud
+
+https://owncloud.org/history/
+https://owncloud.org/faq/#install
+https://doc.owncloud.org/server/8.0/admin_manual/
+https://doc.owncloud.org/server/8.0/admin_manual/installation/linux_installation.html
+
+http://www.ubuntu.com/cloud/openstack
+http://cdn.oreillystatic.com/en/assets/1/event/45/Deploying%20an%20Open%20Source%20Private%20Cloud%20On%20a%20Shoe%20String%20Budget%20Presentation.pdf
+
+http://www.idganswers.com/question/5714/how-can-i-build-a-private-cloud
+
 # Bibliografía
