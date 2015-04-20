@@ -14,7 +14,7 @@ bibliography: references.bib
 
 Owncloud proporciona software de servidor y de cliente para montar una
 nube. Permite acceder a los datos mediante una interfaz web o mediante el
-protocolo  **WebDAV**.
+protocolo **WebDAV**.
 
 
 ## Owncloud como usuario
@@ -26,5 +26,9 @@ sudo sh -c "echo 'deb http://download.opensuse.org/repositories/isv:/ownCloud:/c
 sudo apt-get update
 sudo apt-get install owncloud
 ```
+
+## Owncloud como administrador
+
+Como administradores, podemos seguir el manual de usuario. [@ownadmin]
 
 # Openstack
