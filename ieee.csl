@@ -158,9 +158,9 @@
       <if type="webpage">
 	<choose>
 	  <if variable="URL">
-	    <group delimiter=". ">
-	      <text value="[Online]"/>
-	      <text variable="URL" prefix="Available: "/>
+	    <group delimiter="">
+	      <text value="Online "/>
+	      <text variable="URL" prefix="URL: "/>
 	      <group prefix="[" suffix="]">
 		<date variable="accessed" prefix="Accessed: ">
 		  <date-part name="day" form="numeric-leading-zeros" suffix="-"/>
@@ -218,7 +218,7 @@
 	  </group>
 	</else-if>
 	<else-if type="report">
-	  <group delimiter=", "> 
+	  <group delimiter=", ">
 	    <text macro="title"/>
 	    <text macro="publisher"/>
 	    <group delimiter=" ">
