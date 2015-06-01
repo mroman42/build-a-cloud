@@ -1,18 +1,8 @@
 ---
 title: "Nubes privadas: OwnCloud y AeroFS"
-author: Mario Román García
+author: Autor
 date: Universidad de Granada
-abstract: "Una nube privada es aquella cuyo control y uso es exclusivo de una
-organización concreta, tal y como la define [@clouddef], sin que se almacenen
-datos de la organización en servidores externos, como ocurre con las nubes
-públicas. En este trabajo se
-analizarán dos alternativas de software orientadas a un sistema de compartición
-y sincronización de archivos para una nube privada, OwnCloud, una alternativa
-libre, y AeroFS, una alternativa propietaria.
-Sobre ellas se expondrán los aspectos principales de uso, administración,
-seguridad y monitorización y se compararán cualitativamente. Se observará que la
-principal diferencia entre ambas tiene que ver con su arquitectura y cómo afecta
-esta a la propagación de los cambios."
+abstract: " "
 mainfont: Arial
 fontsize: 10pt
 geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=3cm, right=3cm"
@@ -20,6 +10,21 @@ csl: ieee.csl
 
 bibliography: references.bib
 ---
+
+
+Una **nube privada** es aquella cuyo control y uso es exclusivo de una
+organización concreta, tal y como la define [@clouddef], sin que se almacenen
+datos de la organización en servidores externos, como ocurre con las nubes
+públicas. En este trabajo se
+analizarán dos alternativas de software orientadas a un sistema de compartición
+y sincronización de archivos para una nube privada, OwnCloud, una alternativa
+libre, y AeroFS, una alternativa propietaria.
+
+Sobre ellas se expondrán los aspectos principales de uso, administración,
+seguridad y monitorización y se compararán cualitativamente. Se observará que la
+principal diferencia entre ambas tiene que ver con su arquitectura y cómo afecta
+esta a la propagación de los cambios.
+Finalmente, se expondrán otras soluciones de nube privada.
 
 # OwnCloud
 
